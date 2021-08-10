@@ -14,10 +14,18 @@ nav, a {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
 }
 
 p {
     text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #subtitle {
@@ -30,4 +38,16 @@ p {
     font-family: Verdana;
     font-size: 21px;
     color: gray;
+}
+
+#icon {
+    margin-top: 0.3cm;
+}
+
+#foot {
+    font-family: Verdana;
+    font-weight: bold;
+    color: gray;
+    text-align: right;
+    font-size: 25px;
 }
