@@ -55,3 +55,11 @@ img {
     text-align: right;
     font-size: 25px;
 }
+
+.class {
+    font-family: Verdana;
+    font-weight: bold;
+    color: gray;
+    text-align: right;
+    font-size: 25px;
+}
