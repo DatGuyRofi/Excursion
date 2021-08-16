@@ -52,6 +52,16 @@ img {
     font-family: Verdana;
     font-weight: bold;
     color: gray;
-    text-align: right;
-    font-size: 25px;    
+    font-size: 25px;   
+    display: inline-block; 
+    padding: 0 0 0 27cm;
+}
+
+.backtotop {
+    font-family: Verdana;
+    font-weight: bold;
+    color: gray;
+    font-size: 25px; 
+    margin-left: 1cm;
+    text-decoration: none;
 }
