@@ -13,3 +13,5 @@ nav, a {
 }
 
 it has been left like that since it works and does not create any problem in how the site is displayed and its functionality.
+
+Edit #1 - 08/15/2021: the "Back to top" link and copyright are aligned horizontally. The CSS sybtax to do so it's kind of weird since but it does work. 
