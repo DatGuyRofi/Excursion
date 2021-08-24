@@ -48,20 +48,28 @@ img {
     margin-top: 0.3cm;
 }
 
-#foot {
-    font-family: Verdana;
-    font-weight: bold;
-    color: gray;
-    font-size: 25px;   
-    display: inline-block; 
-    padding: 0 0 0 27cm;
-}
-
 .backtotop {
     font-family: Verdana;
     font-weight: bold;
     color: gray;
     font-size: 25px; 
-    margin-left: 1cm;
     text-decoration: none;
+}
+
+.topbutton {
+    width: fit-content;
+    height: fit-content;
+    display: inline;
+    margin-left: 1cm;
+}
+
+.copyright{ 
+    width: fit-content;
+    display: inline-flex;
+    float: right;
+    font-family: Verdana;
+    font-weight: bold;
+    color: gray;
+    font-size: 25px;  
+    margin-right: 1cm; 
 }
